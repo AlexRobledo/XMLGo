@@ -1,0 +1,42 @@
+Verificado ó Asoc.|1|string
+Estado SAT|1|string
+Versión|1|double
+Tipo|1|string
+Fecha de Emisión|1|string
+Fecha de Timbrado|1|string
+Estado de Pago|1|string
+Fecha de Pago|1|string
+Serie|1|string
+Folio|1|string
+UUID|1|string
+UUID Relación|1|string
+RFC Emisor|1|string
+Nombre Emisor|1|string
+Lugar de Expedición|1|double
+RFC Receptor|1|string
+Nombre Receptor|1|string
+Residencia Fiscal|1|string
+Num Reg Id Trib|1|double
+Uso CFDI|1|string
+SubTotal|1|decimal
+Descuento|1|decimal
+Total IEPS|1|decimal
+IVA 16%|1|decimal
+Retenido IVA|1|decimal
+Retenido ISR|1|decimal
+ISH|1|decimal
+Total|1|decimal
+Total Original|1|decimal
+Total Trasladados|1|decimal
+Total Retenidos|1|decimal
+Total Local Trasladado|1|deciaml
+Total Local Retenido|1|decimal
+Moneda|1|string
+Tipo de Cambio|1|string
+Forma de Pago|1|string
+Método de Pago|1|string
+NumCtaPago|1|string
+Condición de Pago|1|string
+Conceptos|1|string
+Combustible|1|string
+Archivo XML|1|string

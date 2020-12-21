@@ -1,0 +1,11 @@
+C:\Users\alx_h\Documents\Trabajo\Programas\XMLFileAdministrator\XMLFileAdministrator\bin\Debug\XMLFileAdministrator.exe.config
+C:\Users\alx_h\Documents\Trabajo\Programas\XMLFileAdministrator\XMLFileAdministrator\bin\Debug\XMLFileAdministrator.exe
+C:\Users\alx_h\Documents\Trabajo\Programas\XMLFileAdministrator\XMLFileAdministrator\bin\Debug\XMLFileAdministrator.pdb
+C:\Users\alx_h\Documents\Trabajo\Programas\XMLFileAdministrator\XMLFileAdministrator\obj\Debug\XMLFileAdministrator.csprojAssemblyReference.cache
+C:\Users\alx_h\Documents\Trabajo\Programas\XMLFileAdministrator\XMLFileAdministrator\obj\Debug\XMLFileAdministrator.Inicio.resources
+C:\Users\alx_h\Documents\Trabajo\Programas\XMLFileAdministrator\XMLFileAdministrator\obj\Debug\XMLFileAdministrator.Properties.Resources.resources
+C:\Users\alx_h\Documents\Trabajo\Programas\XMLFileAdministrator\XMLFileAdministrator\obj\Debug\XMLFileAdministrator.csproj.GenerateResource.cache
+C:\Users\alx_h\Documents\Trabajo\Programas\XMLFileAdministrator\XMLFileAdministrator\obj\Debug\XMLFileAdministrator.exe
+C:\Users\alx_h\Documents\Trabajo\Programas\XMLFileAdministrator\XMLFileAdministrator\obj\Debug\XMLFileAdministrator.pdb
+C:\Users\alx_h\Documents\Trabajo\Programas\XMLFileAdministrator\XMLFileAdministrator\obj\Debug\Interop.Office.dll
+C:\Users\alx_h\Documents\Trabajo\Programas\XMLFileAdministrator\XMLFileAdministrator\obj\Debug\XMLFileAdministrator.csproj.ResolveComReference.cache
